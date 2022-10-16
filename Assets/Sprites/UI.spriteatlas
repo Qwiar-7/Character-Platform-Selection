@@ -1,0 +1,95 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: UI
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 1
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings:
+    - serializedVersion: 3
+      m_BuildTarget: Android
+      m_MaxTextureSize: 2048
+      m_ResizeAlgorithm: 0
+      m_TextureFormat: 47
+      m_TextureCompression: 1
+      m_CompressionQuality: 50
+      m_CrunchedCompression: 0
+      m_AllowsAlphaSplitting: 0
+      m_Overridden: 1
+      m_AndroidETC2FallbackOverride: 0
+      m_ForceMaximumCompressionQuality_BC6H_BC7: 0
+    - serializedVersion: 3
+      m_BuildTarget: iPhone
+      m_MaxTextureSize: 2048
+      m_ResizeAlgorithm: 0
+      m_TextureFormat: 33
+      m_TextureCompression: 1
+      m_CompressionQuality: 50
+      m_CrunchedCompression: 0
+      m_AllowsAlphaSplitting: 0
+      m_Overridden: 1
+      m_AndroidETC2FallbackOverride: 0
+      m_ForceMaximumCompressionQuality_BC6H_BC7: 0
+    packingSettings:
+      serializedVersion: 2
+      padding: 4
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 0
+      enableTightPacking: 0
+    secondaryTextureSettings: {}
+    variantMultiplier: 1
+    packables:
+    - {fileID: 102900000, guid: c031f476799e2b644a155df7248e42a0, type: 3}
+    - {fileID: 102900000, guid: c54b24027ea8ce247a0878eeceaec751, type: 3}
+    - {fileID: 102900000, guid: c5b6fa5207c96e341974367eaff9e77b, type: 3}
+    bindAsDefault: 1
+    isAtlasV2: 0
+    cachedData: {fileID: 0}
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: 21300000, guid: 0bc90080eeee2fb40965655d22c201ff, type: 3}
+  - {fileID: 21300000, guid: d2034c415c358d648bbebf59eae17a75, type: 3}
+  - {fileID: 21300000, guid: 8cc8c9e2a5051e648ba4682609568364, type: 3}
+  - {fileID: 21300000, guid: 41b60b2330d01c2489a75e12e99ce3fc, type: 3}
+  - {fileID: 21300000, guid: 8a9bbc23af26b1a4199592e722655f7b, type: 3}
+  - {fileID: 21300000, guid: 2929d693e0cb3044c939b7dd5dbbdedd, type: 3}
+  - {fileID: 21300000, guid: d24e7478158feac4eadff7cf48bd5ab1, type: 3}
+  - {fileID: 21300000, guid: 80dd493b5f908f5439ad1c02c03173ac, type: 3}
+  - {fileID: 21300000, guid: e6ee4bdba0de79f4d9c3f8660b80346a, type: 3}
+  - {fileID: 21300000, guid: e77f239c3bc0def47b284d746ede0e6e, type: 3}
+  - {fileID: 21300000, guid: 8e24b59c881bf06408c385c7d84200e4, type: 3}
+  - {fileID: 21300000, guid: f5ecc1bd28910764c956c505d633c4cb, type: 3}
+  - {fileID: 21300000, guid: 57eb3deff5006df4cab027031c53283f, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - Border
+  - Rogue_02
+  - Platform_02
+  - Rogue_04
+  - Rogue_05
+  - Rogue_07
+  - Platform_03
+  - Rogue_01
+  - Rogue_06
+  - Rogue_03
+  - Platform_01
+  - Lock
+  - Check
+  m_RenderDataMap: {}
+  m_Tag: UI
+  m_IsVariant: 0
